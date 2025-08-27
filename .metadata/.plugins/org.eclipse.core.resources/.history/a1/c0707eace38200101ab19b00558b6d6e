@@ -7,7 +7,7 @@ public class VariablelinitializationExample {
 		int value = 0;
 		int result = value + 10;
 		
-		System.out.println(result); // 01
+		System.out.println(result);
 	}
 
 }
