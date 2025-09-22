@@ -3,4 +3,5 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="javax.management.modelmbean.ModelMBean"/>
+    <fullyQualifiedTypeName name="sec5.exam06.Earth"/>
 </qualifiedTypeNameHistroy>
