@@ -5,8 +5,9 @@
     <fullyQualifiedTypeName name="sec6.exam02.hankook.Tire"/>
     <fullyQualifiedTypeName name="sec6.exam02.kumho.Tire"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="sec01.exam06.MyClass"/>
     <fullyQualifiedTypeName name="sec01.exam01.A.B"/>
     <fullyQualifiedTypeName name="sec01.exam01.A.C"/>
+    <fullyQualifiedTypeName name="sec02.exam03.Button.OnclickListener"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
